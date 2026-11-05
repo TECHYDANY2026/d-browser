@@ -10,4 +10,8 @@ HOW TO USE:
    
    Open the folder, click the address bar, type powershell and press Enter. In the window that opens, run:
    npm install
-   npm run dist:win 
+   npm run dist:win
+
+
+to see installatio progress on linux open separate terminal and paste this:  cd ~/Downloads/D-Browser
+tail -f setup.log
